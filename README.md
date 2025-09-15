@@ -6,7 +6,7 @@
 - 🎓 Tsinghua University - B.A. in English Literature & Minor in Journalism & Communication. **GPA: 3.89**
 - 🧸 Internship: [Xiaomi](https://www.mi.com/global/) PM / UIUX, 2025 
 - 🧩 Academic: Institute of Human Factors and Human-System Interaction
-- 📫 📨 Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com)  
+- 📫  Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com)  
 🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122)
 
 
