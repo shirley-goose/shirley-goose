@@ -7,10 +7,9 @@
 - 🧸 Internship: [Xiaomi](https://www.mi.com/global/) PM / UIUX, 2025 
 - 🧩 Academic: Institute of Human Factors and Human-System Interaction
 - 📫 📨 Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com)  
-🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122) /
+🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122)
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
