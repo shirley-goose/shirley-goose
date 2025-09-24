@@ -7,9 +7,9 @@
 - 🧸 Internship: [Xiaomi](https://www.mi.com/global/) PM / UIUX, 2025 
 - 🧩 Academic: Institute of Human Factors and Human-System Interaction, Tsingua University
 - 💡 Life:
-  - ☕️ Coffee: I once part-time as barista on campus!)
-  - 🍞 Bakery: Run the largest association composed by bread lovers of 2000+ members on campus)
-  - 🧘 Yoga: That's why I developed the APP shown in the respository!)
+  - ☕️ Coffee: I once part-timed as barista on campus!
+  - 🍞 Bakery: Run the largest association composed by bread lovers of 2000+ members on campus.
+  - 🧘 Yoga: That's why I developed the APP shown in the respository!
 - 🪐 Personal Website: [xinyuehe.channel](https://xinyuehe.channel/)
 - 📫 Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com),  [xhe09@uw.edu](mailto:xhe09@uw.edu)
 - 🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122)
