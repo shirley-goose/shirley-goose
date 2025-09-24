@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning **Machine Learning, Sensors & Circuits, Fabrication And Physical Prototyping, Robotics**
 - 🪪 A **dual-degree MS Student** at [Tsinghua&UW GIX](https://gix.tsinghua.edu.cn/en/) — HCI / UX & Engineering  
-- 🎓 Tsinghua University - B.A. in English Literature & Minor in Journalism & Communication. **GPA: 3.89**
+- 🎓 Tsinghua University - B.A. in Language & Literature, Minor in Journalism & Communication. **GPA: 3.89**
 - 🧸 Internship: [Xiaomi](https://www.mi.com/global/) PM / UIUX, 2025 
-- 🧩 Academic: Institute of Human Factors and Human-System Interaction
-- 📫  Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com)  
+- 🧩 Academic: Institute of Human Factors and Human-System Interaction, Tsingua University
+- 📫  Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com), [xhe09@uw.edu](mailto:xhe09@uw.edu)
 🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122)
 
 
