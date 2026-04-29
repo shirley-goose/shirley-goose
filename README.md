@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Xinyue He</h1>
-<h3 align="center">A passionate HCI researcher aspiring to make creative contributions at the intersection of technology and humanity.</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Sensors & Circuits, Fabrication And Physical Prototyping, Robotics**
-- 🪪 A **dual-degree MS Student** at [Tsinghua&UW GIX](https://gix.tsinghua.edu.cn/en/) — HCI / CS & Engineering / UX  
-- 🎓 Tsinghua University - B.A. in Language & Literature, Minor in Journalism & Communication. **GPA: 3.89**
+- 🌱 I’m currently a **dual-degree MS Student** at [Tsinghua&UW GIX](https://gix.tsinghua.edu.cn/en/) — Robotics / CS / PM
+- 🎓 Tsinghua University - B.A. in Language & Literature, Double Major in Journalism & Communication. 
 - 🧸 Internship: [Xiaomi](https://www.mi.com/global/) PM / UIUX, 2025 
 - 🧩 Academic: Institute of Human Factors and Human-System Interaction, Tsingua University
 - 💡 Life:
@@ -14,7 +12,8 @@
 - 📫 Email me at: [shirleyhe1122@gmail.com](mailto:shirleyhe1122@gmail.com),  [xhe09@uw.edu](mailto:xhe09@uw.edu)
 - 🐾 Find me at: [LinkedIn](https://www.linkedin.com/in/xinyuehe1122)
 
-
+- I will be based in **Seattle** 2026 Summer, doing intern at [FlickBloom](https://flickbloom.com/). Our company's core business include performance marketing and geo-optimization. If you find interest in it, welcome coffee chat!
+- 
 <p align="left">
 </p>
 
